@@ -1,1 +1,2 @@
 Hello from Amit
+Made changes in Sample.txt
